@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1869667367
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: axolotl.customer
+      Dependencies: {}

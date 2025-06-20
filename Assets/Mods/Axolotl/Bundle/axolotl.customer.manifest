@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2641943772
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa07cd9f9a24ab9b1e71b06bbfa9357b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03bde81cb6dddc8062aa8326e756bd61
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fa07cd9f9a24ab9b1e71b06bbfa9357b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.2D.Animation.Runtime
+  ClassName: UnityEngine.U2D.Animation.SpriteCategoryEntry
+- AssemblyName: Unity.2D.Animation.Runtime
+  ClassName: UnityEngine.U2D.Animation.SpriteLibCategory
+Assets:
+- Assets/Mods/Axolotl/AdditionalNames.json
+- Assets/Mods/Axolotl/Axolotl_Library.asset
+- Assets/Mods/Axolotl/Axolotl_Atlas.spriteatlas
+Dependencies: []
